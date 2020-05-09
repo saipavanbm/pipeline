@@ -1,4 +1,2 @@
-<? php
-print "hello";
-print "world";
-?>
+<?php
+phpinfo();
